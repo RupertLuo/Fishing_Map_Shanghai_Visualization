@@ -4,6 +4,6 @@
 
 并利用 pyechart 和 Baidumap 对钓点进行了可视化
 
-![711619957036_.pic_hd](/Users/luoruipu/Fishing_Map_Shanghai_Visualization/pic/711619957036_.pic_hd.jpg)
+![711619957036_.pic_hd](./pic/711619957036_.pic_hd.jpg)
 
-![701619957036_.pic_hd](/Users/luoruipu/Fishing_Map_Shanghai_Visualization/pic/701619957036_.pic_hd.jpg)可以清晰的看到学校附近哪里有钓点！！！！
+![701619957036_.pic_hd](./pic/701619957036_.pic_hd.jpg)可以清晰的看到学校附近哪里有钓点！！！！
